@@ -1,6 +1,6 @@
 === ShortBurst Newsletter Sign Up ===
 Contributors: duncmorley
-Tags: ShortBurst, newsletter, sign up, widget, Pauley, Creative
+Tags: ShortBurst, newsletter, sign up, widget, Pauley Creative
 Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 1.0
