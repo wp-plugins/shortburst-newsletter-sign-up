@@ -15,8 +15,8 @@ This plugin enables you add a ShortBurst newsletter sign up form to your WordPre
 
 1. Upload the 'shortburst-newsletter-sign-up' folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Locate the ‘ShortBurst Newsletter Sign Up’ widget and drop it on your sidebar
-4. Fill out your required fields including the ‘ShortBurst form ID’
+3. Locate the 'ShortBurst Newsletter Sign Up' widget and drop it on your sidebar
+4. Fill out your required fields including the 'ShortBurst form ID'
 
 
 == Frequently Asked Questions ==
