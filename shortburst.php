@@ -5,7 +5,7 @@ Plugin URI: http://www.pauleycreative.co.uk
 Description: Submit newsletter sign up data to your <a href="http://www.shortburst.co.uk" target="_blank">ShortBurst</a> mailing list.
 Author: Duncan Morley
 Version: 1.0
-Author URI: http://twitter.com/PauleyCreative
+Author URI: http://twitter.com/DuncanMorley
 */
 
 // Add function to widgets_init that'll load our widget.
