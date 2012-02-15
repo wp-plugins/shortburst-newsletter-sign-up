@@ -9,7 +9,7 @@ Add a ShortBurst newsletter sign up widget to your WordPress website or blog.
 
 == Description ==
 
-This plugin enables you add a ShortBurst newsletter sign up form to your WordPress website or blog. All that is required is ID of your ShortBurst mailing list. All valid submission will then automatically be added to your mailing list, ready to send your email marketing campaigns to.
+This plugin enables you to add a ShortBurst newsletter sign up form to your WordPress website or blog. All that is required is ID of your ShortBurst mailing list. All valid submission will then automatically be added to your mailing list, ready to send your email marketing campaigns to.
 
 == Installation ==
 
