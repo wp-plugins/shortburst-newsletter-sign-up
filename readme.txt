@@ -1,4 +1,4 @@
-=== ShortbBurst Newsletter Sign Up ===
+=== ShortBurst Newsletter Sign Up ===
 Contributors: Duncan Morley
 Tags: shortburst, newsletter, sign up, widget, Duncan, Morley, duncmorley, Pauley, Creative
 Requires at least: 3.0
