@@ -1,0 +1,31 @@
+.shortburst #sbError,
+.shortburst input[type=text] {
+	font-family:Arial, Helvetica, sans-serif;
+}
+.shortburst input[type=text] {
+	width:100%;
+	margin:0 0 5px;
+	padding:0;
+}
+.shortburst input[type=submit] {
+	width:100%;
+	cursor:pointer;
+}
+.shortburst #sbError,
+.shortburst input.error {
+	border-style:solid;
+	background-color:#F4E4E4;
+	border-color:#981D05;
+	color:#981D05;
+}
+.shortburst #sbError {
+	min-height:41px;
+	margin:0 0 15px;
+	padding:8px 8px 8px 55px;
+	border-width:2px;
+	background:#F4E4E4 url('../images/cancel_48.png') no-repeat 4px 4px;
+	font-size:11px;
+	line-height:120%;
+	font-weight:bold;
+	color:#981D05;
+}
